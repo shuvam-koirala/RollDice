@@ -14,3 +14,17 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Here are some of the demo screenshot for you
+## screenshot 1
+<img src="Screenshot_2020-11-07-22-46-46-183_com.example.RollDice.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" width="400" />  
+## screenshot 2
+<img src="Screenshot_2020-11-07-22-46-54-803_com.example.RollDice.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" width="400" />  
+## screenshot 3
+<img src="Screenshot_2020-11-07-22-47-37-472_com.example.RollDice.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" width="400" />       
