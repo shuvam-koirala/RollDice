@@ -2,11 +2,11 @@
 ## Here are some of the demo screenshot for you
 <img src="Screenshot_2020-11-07-22-46-46-183_com.example.RollDice.jpg"
      alt="Markdown Monster icon"
-      width="400" />  <img src="Screenshot_2020-11-07-22-46-54-803_com.example.RollDice.jpg"
+      height="400" />  <img src="Screenshot_2020-11-07-22-46-54-803_com.example.RollDice.jpg"
      alt="Markdown Monster icon"
-     width="400" /><img src="Screenshot_2020-11-07-22-47-37-472_com.example.RollDice.jpg"
+     height="400" /><img src="Screenshot_2020-11-07-22-47-37-472_com.example.RollDice.jpg"
      alt="Markdown Monster icon"
-     width="400" />  
+     height="400" />  
      
 ## Created & Maintained By
 
